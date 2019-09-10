@@ -4,3 +4,14 @@
     border-radius: 10px;
     padding: 20px;
 }
+
+.the-numbers{
+    color: white;
+    font-size: 35px;
+    font-family: 'Lobster', cursive;
+}
+
+.player-message{
+    font-size: 30px;
+    color: red;
+}
